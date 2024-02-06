@@ -1,0 +1,15 @@
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\bin\Debug\net6.0\AtelierTread.exe
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\bin\Debug\net6.0\AtelierTread.deps.json
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\bin\Debug\net6.0\AtelierTread.runtimeconfig.json
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\bin\Debug\net6.0\AtelierTread.dll
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\bin\Debug\net6.0\AtelierTread.pdb
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.csproj.AssemblyReference.cache
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.AssemblyInfoInputs.cache
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.AssemblyInfo.cs
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.csproj.CoreCompileInputs.cache
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.dll
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\refint\AtelierTread.dll
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.pdb
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\AtelierTread.genruntimeconfig.cache
+C:\Users\2233488\Documents\Code\Prog4\AtelierTread\AtelierTread\obj\Debug\net6.0\ref\AtelierTread.dll
